@@ -7,4 +7,9 @@ table,th,td{
 table {
     color: black;
   }
+  .custom-list {
+    list-style-type: square;
+    color: blue;
+  }
+  
   
