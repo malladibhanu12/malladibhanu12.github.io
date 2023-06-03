@@ -16,8 +16,8 @@ table {
   }
   
   @keyframes colorChange {
-    50% { color: rgb(230, 0, 255); }
+    75% { color: rgb(255, 255, 0); }
     50% { color: rgb(0, 213, 255); }
-    50% { color: rgb(0, 58, 128); }
+    100% { color: rgb(220, 29, 29); }
   }
   
