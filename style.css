@@ -11,8 +11,13 @@ table {
     list-style-type: square;
     color: blue;
   }
-  h1 {
-    text-align: center;
+  .animated-heading {
+    animation: colorChange 2s linear infinite;
   }
-    
+  
+  @keyframes colorChange {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: green; }
+  }
   
