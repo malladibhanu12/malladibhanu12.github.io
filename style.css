@@ -20,4 +20,8 @@ table {
     50% { color: rgb(0, 213, 255); }
     100% { color: rgb(220, 29, 29); }
   }
+  .animated-heading {
+    padding-left: 20px; /* Adjust the value as needed */
+  }
+  
   
