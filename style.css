@@ -11,5 +11,8 @@ table {
     list-style-type: square;
     color: blue;
   }
-  
+  h1 {
+    text-align: center;
+  }
+    
   
