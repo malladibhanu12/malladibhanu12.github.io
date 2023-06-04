@@ -1,0 +1,32 @@
+.container{
+    margin-left: 80px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 20%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    transition: 0.7s;
+}
+.card:hover{
+    box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.2);
+}
+.name{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.designation
+{
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.small-image {
+    width: 400px; 
+    height: 300px; 
+  }
